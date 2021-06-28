@@ -1,2 +1,2 @@
-# Probabilistic Deep Learning with TensorFlow 2
- coursera course Probabilistic Deep Learning with TensorFlow 2
+# Deep Learning with TensorFlow 2
+ Coursera specialization on deep learning with tensorflow 2
